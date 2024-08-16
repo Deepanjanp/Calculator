@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dull_yellow">#E4CA78</color>
+    <color name="yellow_orch">#9a7d0a</color>
+    <color name="stopwatch_bg">#E4CA78</color>
+    <color name="green">#3AA03F</color>
+    <color name="red">#F90606</color>
+    <color name="blue">#11D5BD</color>
+</resources>
